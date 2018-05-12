@@ -1,0 +1,32 @@
+_repo: Paul-Appell--Biographie-Bibliographie-Analytique-des--crits_38034
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lebon, Ernest
+    aliases:
+    - Lebon, Desire Ernest
+    - Lebon, Désiré Ernest
+    birthdate: 1846
+    deathdate: 1922
+    gutenberg_agent_id: '36123'
+    url: http://www.gutenberg.org/2009/agents/36123
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2011-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38034'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Appell, Paul, 1855-1930 -- Bibliography'
+- !lcsh 'Appell, Paul, 1855-1930'
+- !lcsh 'Mathematicians -- Biography'
+- !lcc 'QA'
+title: 'Paul Appell: Biographie, Bibliographie Analytique des Écrits'
+url: http://www.gutenberg.org/ebooks/38034
